@@ -71,11 +71,11 @@ repositories {
 }
 
 dependencies {
-    annotationProcessor 'com.neenbedankt.bundles:argument:1.0.4'
-    compile 'com.neenbedankt.bundles:argument:1.0.4'
+    // annotationProcessor 'com.neenbedankt.bundles:argument:1.0.4'
+    // compile 'com.neenbedankt.bundles:argument:1.0.4'
     compile 'com.facebook.react:react-native:+'
     compile 'com.android.support:appcompat-v7:27.1.1'
     compile 'com.android.support:design:27.1.1'
 
-    compile 'com.sumup:merchant-sdk:3.2.0'
+    compile 'com.sumup:merchant-sdk:3.2.2'
 }
